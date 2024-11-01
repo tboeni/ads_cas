@@ -1,6 +1,6 @@
 
 
-# GitHub Repository for the CAS Applied Data Science at University of Bern 
+# GitHub Repository for the CAS Applied Data Science (TEST / DRAFT)
 
 This CAS is structured into six in-depth modules, each focused on building essential skills in data science, statistical analysis, machine learning, ethical practices, peer consulting, and deep learning. Each module is designed to provide practical knowledge, hands-on experience, and opportunities for immersive learning in unique settings.
 
