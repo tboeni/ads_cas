@@ -40,3 +40,8 @@ Below you will find an overview of the different modules which will be part of t
 
 ## Module 6: Deep Learning
 * **TensorFlow** for deep learning applications
+
+---
+
+## Final Project
+* Contains accumulated data, notebooks and the final report
