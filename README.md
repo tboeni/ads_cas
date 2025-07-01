@@ -5,7 +5,7 @@
 Below you will find an overview of the different modules which will be part of this CAS program
 
 ## Module 1: Data Acquisition and Management
-* Learn to understand** different data sources and types** and how to design data management models and plans
+* Learn to understand **different data sources and types** and how to design data management models and plans
 
 ---
 
